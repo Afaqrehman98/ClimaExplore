@@ -1,8 +1,8 @@
-ClimaExplorer is the ultimate mobile app with seamless Weather Forecast assistance at your fingertips!
+ClimaExplore is the ultimate mobile app with seamless Weather Forecast assistance at your fingertips!
 
 **_You can Install and test latest app from below 👇_**
 
-[![ClimaExplorer App](https://img.shields.io/badge/ClimaExplorer-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Afaqrehman98/ClimaExplorer/tree/main/apk)
+[![ClimaExplore App](https://img.shields.io/badge/ClimaExplorer-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Afaqrehman98/ClimaExplorer/tree/main/apk)
 
 ## Prerequisites 📝
 
