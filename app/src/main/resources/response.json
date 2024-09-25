@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "temperature": 14,
+  "date": "2024-09-24",
+  "wind": 21,
+  "humidity": 81,
+  "feelsLike": 12,
+  "uv": 1,
+  "name": "Cottbus",
+  "isFavourite": false
+}
